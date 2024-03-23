@@ -2,6 +2,37 @@
 
 image::images/the_sound_of_music.jpg[]
 
-This document is a collection of things I like.
+:toc:
 
+This document is a collection of things I like, mostly books.
 
+Treat this document as a recommendation list.
+The selection is brutal: only a tiny fraction of what I read and use made its way into this list.
+
+== Software engineering
+
+* https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1[Pragmatic Programmer] by David Thomas and Andrew Hunt.
+* https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL[A Philosophy of Software Design] by John K. Ousterhout.
+* https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321[Designing Data-Intensive Applications] by Martin Kleppmann.
+
+=== Functional programming
+
+* https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html[Structure and Interpretation of Computer Programs] by Abelson, Sussman, and Sussman.
+* https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504[Purely Functional Data Structures] by Chris Okasaki.
+* https://www.amazon.com/Type-Driven-Development-Idris-Edwin-Brady-ebook/dp/B0977Z888R[Type-Driven Development with Idris] by Edwin Brady is the best introduction to programming with dependent types I've seen.
+* https://www.amazon.com/Parallel-Concurrent-Programming-Haskell-Multithreaded-ebook/dp/B00DWJ1BIG[Parallel and Concurrent Programming in Haskell] by Simon Marlow.
+
+=== Formal methods
+
+* https://lamport.azurewebsites.net/tla/book.html[Specifying Systems] by Laslie Lamport.
+  The book is dense, you might want to watch the https://lamport.azurewebsites.net/video/videos.html[TLA+ video course] as a supplimentary material.
+
+== Productivity
+
+* https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692[Deep Work] by Cal Newport.
+  This book is Cal's masterpiece.
+  It changed the way I approach work and structure my days.
+
+== Non-fiction
+
+* https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92[The Selfish Gene] by Richard Dawkins.
