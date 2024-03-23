@@ -1,0 +1,7 @@
+= My Favorite Things
+
+image::images/the_sound_of_music.jpg[]
+
+This document is a collection of things I like.
+
+
