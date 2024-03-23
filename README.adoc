@@ -1,13 +1,13 @@
 = My Favorite Things
+:toc:
+:toc-placement!:
 
 image::images/the_sound_of_music.jpg[]
 
-:toc:
-
 This document is a collection of things I like, mostly books.
-
-Treat this document as a recommendation list.
 The selection is brutal: only a tiny fraction of what I read and use made its way into this list.
+
+toc::[]
 
 == Software engineering
 
