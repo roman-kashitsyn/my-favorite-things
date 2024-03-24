@@ -4,8 +4,15 @@
 
 image::images/the_sound_of_music.jpg[]
 
-This document is a collection of things I like, mostly books.
-The selection is brutal: only a tiny fraction of what I read and use made its way into this list.
+---
+
+[quote,Mortimer J. Adler, How to Read a Book]
+Of the few thousand such books there is a much smaller number—here the number is probably less than a hundred--that cannot be exhausted by even the very best reading you can manage...
+if the book belongs to the highest class--the very small number of inexhaustible books--you discover on returning that the book seems to have grown with you.
+
+---
+
+This document is a curated collection of things I like, mostly books.
 
 toc::[]
 
@@ -36,3 +43,4 @@ toc::[]
 == Non-fiction
 
 * https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92[The Selfish Gene] by Richard Dawkins.
+* https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003[Skunk Works] by Ben R. Rich.
