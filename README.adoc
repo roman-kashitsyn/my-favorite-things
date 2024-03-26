@@ -18,6 +18,7 @@ toc::[]
 
 == Software engineering
 
+* https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0137909101[Code] by Charles Petzold.
 * https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1[Pragmatic Programmer] by David Thomas and Andrew Hunt.
 * https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL[A Philosophy of Software Design] by John K. Ousterhout.
 * https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321[Designing Data-Intensive Applications] by Martin Kleppmann.
@@ -39,8 +40,18 @@ toc::[]
 * https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692[Deep Work] by Cal Newport.
   This book is Cal's masterpiece.
   It changed the way I approach work and structure my days.
+  Paraphrasing Alfred North Whitehead, everything that Cal wrote afterwards is a series of footnotes to Deep Work.
+
+* https://www.amazon.com/How-Friends-Influence-People-Revised/dp/067142517X[How to Win Friends & Influence People] by Dale Carnegie.
 
 == Non-fiction
 
 * https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92[The Selfish Gene] by Richard Dawkins.
+* https://www.amazon.com/gp/product/0374275637[Thinking, Fast and Slow] by Daniel Kahneman.
 * https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003[Skunk Works] by Ben R. Rich.
+
+== Fiction
+
+* https://www.amazon.com/Glass-Bead-Game-Hermann-Hesse-ebook/dp/B0BVMLLXKC[The Glass Bead Game] by Hermann Hesse.
+* https://www.amazon.com/Hobbit-J-R-R-Tolkien/dp/0618260307[The Hobbit] by J.R.R. Tolkien.
+* https://www.amazon.com/Complete-Illustrated-Sherlock-Holmes/dp/1840227494/[The Sherlock Holmes] books by Sir Arthur Conan Doyle.
