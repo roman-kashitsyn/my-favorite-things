@@ -27,7 +27,7 @@ toc::[]
 
 * https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html[Structure and Interpretation of Computer Programs] by Abelson, Sussman, and Sussman.
 * https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504[Purely Functional Data Structures] by Chris Okasaki.
-* https://www.amazon.com/Type-Driven-Development-Idris-Edwin-Brady-ebook/dp/B0977Z888R[Type-Driven Development with Idris] by Edwin Brady is the best introduction to programming with dependent types I've seen.
+* https://www.amazon.com/Type-Driven-Development-Idris-Edwin-Brady-ebook/dp/B0977Z888R[Type-Driven Development with Idris] by Edwin Brady is the best introduction to programming with dependent types, period.
 * https://www.amazon.com/Parallel-Concurrent-Programming-Haskell-Multithreaded-ebook/dp/B00DWJ1BIG[Parallel and Concurrent Programming in Haskell] by Simon Marlow.
 
 === Formal methods
@@ -35,23 +35,35 @@ toc::[]
 * https://lamport.azurewebsites.net/tla/book.html[Specifying Systems] by Laslie Lamport.
   The book is dense, you might want to watch the https://lamport.azurewebsites.net/video/videos.html[TLA+ video course] as a supplimentary material.
 
+== Writing
+
+* https://www.amazon.com/gp/product/9081367706[Trees, Maps, and Theorems Effective Communication for Rational Minds] by Jean-Luc Doumont.
+  A clear, beautiful, self-referential book on how to get a message across.
+* https://www.amazon.com/gp/product/1433829738/[How to Write a Lot: A Practical Guide to Productive Academic Writing] by Paul J. Silvia.
+  This short book tells you the secret of being prolific in writing a beyond: create a schedule and stick to it.
+
 == Productivity
 
 * https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692[Deep Work] by Cal Newport.
-  This book is Cal's masterpiece.
-  It changed the way I approach work and structure my days.
-  Paraphrasing Alfred North Whitehead, everything that Cal wrote afterwards is a series of footnotes to Deep Work.
-
+  This book changed the way I approach work and structure my days.
 * https://www.amazon.com/How-Friends-Influence-People-Revised/dp/067142517X[How to Win Friends & Influence People] by Dale Carnegie.
+* https://www.amazon.com/gp/product/0884271781[The Goal: A Process of Ongoing Improvement] by Eliyahu M. Goldratt and Jeff Cox.
 
 == Non-fiction
 
 * https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92[The Selfish Gene] by Richard Dawkins.
 * https://www.amazon.com/gp/product/0374275637[Thinking, Fast and Slow] by Daniel Kahneman.
+* https://www.amazon.com/gp/product/0670034576[The 33 Strategies of War] by Robert Greene.
 * https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003[Skunk Works] by Ben R. Rich.
+
+== History
+
+* https://www.amazon.com/gp/product/1610397215[The Storm Before the Storm: The Beginning of the End of the Roman Republic] by Mike Duncan
+  is a breathtaking account of the rise and fall of the Roman Republic.
 
 == Fiction
 
 * https://www.amazon.com/Glass-Bead-Game-Hermann-Hesse-ebook/dp/B0BVMLLXKC[The Glass Bead Game] by Hermann Hesse.
+  This book made it clear what I want to do with my life: become a Magister Ludi and seek patterns across disciplines.
 * https://www.amazon.com/Hobbit-J-R-R-Tolkien/dp/0618260307[The Hobbit] by J.R.R. Tolkien.
 * https://www.amazon.com/Complete-Illustrated-Sherlock-Holmes/dp/1840227494/[The Sherlock Holmes] books by Sir Arthur Conan Doyle.
