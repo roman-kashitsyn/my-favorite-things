@@ -67,3 +67,4 @@ toc::[]
   This book made it clear what I want to do with my life: become a Magister Ludi and seek patterns across disciplines.
 * https://www.amazon.com/Hobbit-J-R-R-Tolkien/dp/0618260307[The Hobbit] by J.R.R. Tolkien.
 * https://www.amazon.com/Complete-Illustrated-Sherlock-Holmes/dp/1840227494/[The Sherlock Holmes] books by Sir Arthur Conan Doyle.
+* https://www.amazon.com/gp/product/0812550706/[Ender’s Game] by Orson Scott Card
