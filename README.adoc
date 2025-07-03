@@ -6,8 +6,7 @@ image::images/the_sound_of_music.jpg[]
 
 ---
 
-[quote,Mortimer J. Adler, How to Read a Book]
-Of the few thousand such books there is a much smaller number—here the number is probably less than a hundred--that cannot be exhausted by even the very best reading you can manage...
+[quote,Mortimer J. Adler, “How to Read a Book”]
 if the book belongs to the highest class--the very small number of inexhaustible books--you discover on returning that the book seems to have grown with you.
 
 ---
@@ -42,20 +41,17 @@ toc::[]
 
 == Writing
 
-* https://www.amazon.com/gp/product/9081367706[Trees, Maps, and Theorems Effective Communication for Rational Minds] by Jean-Luc Doumont.
-  A clear, beautiful, self-referential book on how to get a message across.
-* https://www.amazon.com/gp/product/1433829738/[How to Write a Lot: A Practical Guide to Productive Academic Writing] by Paul J. Silvia.
-  This short book tells you the secret of being prolific in writing a beyond: create a schedule and stick to it.
+* https://www.amazon.com/gp/product/9081367706[Trees, Maps, and Theorems] by Jean-Luc Doumont is a clear, beautiful, self-referential book on how to get a message across.
+* https://www.amazon.com/gp/product/1433829738/[How to Write a Lot] by Paul J. Silvia is a short book that tells you the secret of being prolific in writing and beyond: create a schedule and stick to it.
 * https://a.co/d/0HtUvgI[Clear and Simple As the Truth] by Francis-Noël Thomas and Mark Turner explains the concept of style,
   introduces the classical style, and explains how it differs from other popular stiles.
 * https://a.co/d/cgAX0yc[A System for Writing] by Bob Doto is the best description of the Zettelkasten method you’ll find, and it’s a pleasure to read.
 
 == Productivity
 
-* https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692[Deep Work] by Cal Newport.
-  This book changed the way I approach work and structure my days.
-* https://www.amazon.com/How-Friends-Influence-People-Revised/dp/067142517X[How to Win Friends & Influence People] by Dale Carnegie.
-* https://www.amazon.com/gp/product/0884271781[The Goal: A Process of Ongoing Improvement] by Eliyahu M. Goldratt and Jeff Cox.
+* https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692[Deep Work] by Cal Newport changed the way I approach work and structure my days.
+* https://www.amazon.com/How-Friends-Influence-People-Revised/dp/067142517X[How to Win Friends & Influence People] by Dale Carnegie greatly increased the success of my interactions with colleagues.
+* https://www.amazon.com/gp/product/0884271781[The Goal] by Eliyahu M. Goldratt and Jeff Cox.
 
 == Popular science
 
@@ -71,12 +67,12 @@ toc::[]
   It is dramatised and contains a few factual errors, but I love this book so much that I listen to it every year.
 * https://www.amazon.com/gp/product/0670034576[The 33 Strategies of War] by Robert Greene is a fascinating mix of history and wisdom for martial artists.
 * https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003[Skunk Works] by Ben R. Rich.
-* https://a.co/d/hcrR2LN[Determined: A Science of Life without Free Will] by Robert M. Sapolsky lays out convincing arguments for the absence of free will,
+* https://a.co/d/hcrR2LN[Determined] by Robert M. Sapolsky lays out convincing arguments for the absence of free will,
   and explains how we should react to the news.
 
 == History
 
-* https://www.amazon.com/gp/product/1610397215[The Storm Before the Storm: The Beginning of the End of the Roman Republic] by Mike Duncan
+* https://www.amazon.com/gp/product/1610397215[The Storm Before the Storm] by Mike Duncan
   is a breathtaking account of the rise and fall of the Roman Republic.
 
 == Fiction
